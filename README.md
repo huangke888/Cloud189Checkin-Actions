@@ -45,6 +45,17 @@
 示例：**USER:123456,24678**，**PWD:cxkjntm,jntmcxk**
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
+--------------------------
+
+![](http://tu.yaohuo.me/imgs/2020/06/af2013b1ef5d8430.png)
+
+--------------------------
+
+![](http://tu.yaohuo.me/imgs/2020/06/09c22adcec7b5d81.png)
+
+
+
+
 ## 三、启用Action
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
@@ -59,12 +70,6 @@ Actions > Cloud189Checkin > build
 若有需求，可以在[.github/workflows/run.yml]中自行修改
 
 【账号密码】：
-USER:
-13647812878,18682107077,13560234562,15602917925
-PWD:
-123,123,123,123
 
-Actions secrets删除重新输入：
-PWD:123,123,123,123
 
 
